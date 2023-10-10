@@ -1,3 +1,9 @@
+commit c787f77a1bee74b9a7a951cce04b252ad795c538
+Author: Lonelyreader01 <zj2370@gsb.columbia.edu>
+Date:   Mon Oct 9 22:45:59 2023 -0400
+
+    change hw2
+
 commit 645f08394c7edad88095268f2427fde8eba23621
 Author: Lonelyreader01 <zj2370@gsb.columbia.edu>
 Date:   Mon Oct 9 12:41:12 2023 -0400
